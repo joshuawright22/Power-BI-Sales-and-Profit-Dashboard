@@ -53,13 +53,21 @@ The datasets were transformed and cleaned in Power BI before analysis.
 
 ---
 
-## How to Use the Power BI Report
-1. Download `Company XYZ Report.pbix` and open it in **Power BI Desktop**.
-2. Explore interactive visuals:
-   - Select different countries to filter sales data.
-   - View profit trends by time.
-   - Analyze top-selling products.
-3. Modify and extend: Use **Power Query** to refine data, add new metrics, or integrate more sources.
+## How to Use the Power BI Report  
+
+### Download the Repository Files:  
+- **[Company XYZ Financials.xlsx](Company%20XYZ%20Financials.xlsx)** – The Excel file containing the raw financial data used in this dashboard.  
+- **[Company XYZ Report.pbix](Company%20XYZ%20Report.pbix)** – The Power BI Desktop file containing the complete dashboard.  
+- **[Power BI Dashboard Video Walkthrough.mp4](Power%20BI%20Dashboard%20Video%20Walkthrough.mp4)** – A screen recording walkthrough of the dashboard, showcasing its functionality.  
+
+### Open the Dashboard:  
+1. Install and open **Power BI Desktop** (free download available from [Microsoft Power BI](https://powerbi.microsoft.com/)).  
+2. Load the `Company XYZ Report.pbix` file into Power BI Desktop to explore the dashboard interactively.  
+
+### Watch the Walkthrough Video:  
+- If you cannot open Power BI, the **walkthrough video** demonstrates how the dashboard operates, showing all interactive elements and insights in action.  
+- Click to watch the video: **[Power BI Dashboard Video Walkthrough.mp4](Power%20BI%20Dashboard%20Video%20Walkthrough.mp4)**.  
+- The video provides an overview of **profit trends, sales analysis, and country-wise performance comparisons**.  
 
 ---
 
