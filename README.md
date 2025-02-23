@@ -79,5 +79,20 @@ The datasets were transformed and cleaned in Power BI before analysis.
 
 ---
 
+## Data Analysis Tools Used
+
+- **Power BI Desktop** – Used for dashboard creation and data visualization.
+- **Microsoft Excel** – Used for raw data preparation, cleaning, and structuring.
+- **Kaggle / Wikipedia** – Source for the publicly available dataset on country populations.
+
+---
+
 ## Conclusion
 This Power BI report highlights how financial data and external demographics can be combined for strategic insights. By leveraging data visualization and transformation, businesses can optimize sales strategies and market expansion.
+
+---
+
+# Contacts
+- Author: Joshua Wright
+- Email: joshwright2205@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jwright-j22/
